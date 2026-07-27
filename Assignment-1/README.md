@@ -1,32 +1,33 @@
-# Assignment 1 – Python Programming Internship
+# Assignment 1 – Python Programming Internship 🐍
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Internship](https://img.shields.io/badge/VaultofCode-Python%20Internship-orange)
 
-This folder contains all the tasks completed for **Assignment 1** during my **Python Programming Internship** at **VaultofCode**.
+This folder contains all tasks completed for **Assignment 1** during my **Python Programming Internship at VaultofCode**.
 
 ---
 
-# 📌 Assignment Objective
+## 📌 Assignment Objective
 
-The objective of this assignment is to strengthen the understanding of Python fundamentals through code review, error correction, and a presentation on core Python concepts.
+The objective of this assignment is to strengthen the understanding of Python fundamentals through code review, error correction, debugging, and a presentation on core Python programming concepts.
 
 ---
 
-# 📂 Tasks Included
+## 📂 Tasks Included
 
-## 🔹 Task 1 – Code Review and Error Correction
+### 🔹 Task 1 – Code Review and Error Correction
 
-### Objective
-Identify syntax and logical errors in Python code snippets, correct them, and understand why the corrections work.
+#### Objective
 
-### Files Included
+Identify syntax and logical errors in Python code snippets, correct them, and understand the reasons behind the corrections.
 
-- `solutions.py`
+#### Files Included
+
+- `solution.py`
 - `Assignment_1_Report.pdf`
 
-### Concepts Covered
+#### Concepts Covered
 
 - Python Syntax
 - Functions
@@ -36,21 +37,22 @@ Identify syntax and logical errors in Python code snippets, correct them, and un
 - Input Handling
 - Indentation
 - Type Conversion
-- Error Correction
+- Error Identification and Correction
+- Debugging
 
 ---
 
-## 🔹 Task 2 – Python Presentation
+### 🔹 Task 2 – Python Presentation
 
-### Topic
+#### Topic
 
 **Introduction and History of Python | Functions | Modules**
 
-### File Included
+#### File Included
 
 - `Python_Presentation.pptx`
 
-### Topics Covered
+#### Topics Covered
 
 - Introduction to Python
 - History of Python
@@ -65,18 +67,19 @@ Identify syntax and logical errors in Python code snippets, correct them, and un
 
 ---
 
-# 🛠️ Technologies & Tools Used
+## 🛠️ Technologies & Tools Used
 
 - Python 3.14
 - Visual Studio Code
 - Microsoft Word
 - Google Slides
 - Microsoft PowerPoint
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-# 📁 Folder Structure
+## 📁 Folder Structure
 
 ```text
 Assignment-1/
@@ -84,44 +87,8 @@ Assignment-1/
 ├── README.md
 │
 ├── Task-1_Code-Review/
-│   ├── solutions.py
+│   ├── solution.py
 │   └── Assignment_1_Report.pdf
 │
 └── Task-2_Python-Presentation/
     └── Python_Presentation.pptx
-```
-
----
-
-# 🎯 Learning Outcomes
-
-After completing this assignment, I learned how to:
-
-- Identify and fix common Python syntax errors.
-- Improve code readability and maintainability.
-- Understand Python functions and modules.
-- Create a professional technical presentation.
-- Organize project files using GitHub.
-- Write clean and structured Python code.
-
----
-
-# 📌 Internship Details
-
-**Organization:** VaultofCode
-
-**Internship Domain:** Python Programming
-
-**Assignment:** Assignment 1
-
-**Status:** ✅ Completed
-
----
-
-## 👩‍💻 Prepared By
-
-**Kanak Chaudhary**
-
-Python Programming Intern
-
-VaultofCodes

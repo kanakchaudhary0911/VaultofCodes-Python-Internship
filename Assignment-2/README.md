@@ -1,59 +1,59 @@
 # Assignment 2 - Virtual Pet Simulator 🐶
 
-## Overview
+## 📌 Project Overview
 
-This assignment was completed as part of the **Python Programming Internship** offered by **VaultofCode**.
+This assignment was completed as part of the **Python Programming Internship at VaultofCode – Week 2**.
 
-The project is a menu-driven command-line application developed in Python that simulates a virtual pet. Users can interact with the pet by feeding it, playing with it, checking its status, and monitoring its health throughout the game.
+The **Virtual Pet Simulator** is a menu-driven command-line application developed in Python. The project allows users to interact with a virtual pet by performing different actions such as feeding the pet, playing with it, checking its status, and monitoring its overall health and happiness.
 
----
-
-## Project Information
-
-- **Internship:** Python Programming Internship
-- **Organization:** VaultofCode
-- **Student:** Kanak Chaudhary
-- **Language:** Python 3
-- **Project Type:** Command-Line Application
+The project demonstrates the practical use of Python fundamentals, including functions, variables, conditional statements, loops, user input, and menu-driven programming.
 
 ---
 
-## Project Structure
+## 🎯 Assignment Objective
 
-```
+The objective of this project is to develop an interactive Virtual Pet Simulator using Python. The application simulates the basic needs and activities of a virtual pet and allows users to manage its happiness, hunger, and health through different actions.
+
+---
+
+## ✨ Key Features
+
+- Feed the virtual pet
+- Play with the virtual pet
+- Check pet status
+- Monitor hunger level
+- Monitor happiness level
+- Track pet health
+- Update pet condition based on user actions
+- Interactive menu-driven interface
+- Game summary and final score
+- User-friendly command-line interaction
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Functions
+- Variables
+- Conditional Statements
+- Loops
+- User Input
+- Menu-Driven Programming
+- Basic Data Management
+
+---
+
+## 📂 Project Structure
+
+```text
 Assignment-2/
 │
 ├── README.md
 │
 └── Task-1_Virtual-Pet-Simulator/
-    ├── solution.py
+    │
     ├── Assignment_2_Report.pdf
+    ├── Python_Source_Code_Documentation.pdf
+    ├── solution.py
     └── README.md
-```
-
----
-
-## Assignment Objective
-
-Build a Virtual Pet Simulator using Python that allows users to interact with a virtual pet while practicing core Python programming concepts such as functions, dictionaries, loops, conditional statements, and user input.
-
----
-
-## Learning Outcomes
-
-- Working with Python functions
-- Using dictionaries to store data
-- Menu-driven programming
-- Conditional statements
-- Loops
-- User input handling
-- Basic game logic
-- Problem-solving skills
-
----
-
-## Status
-
-✅ Assignment Completed
-
----
