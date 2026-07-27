@@ -36,36 +36,38 @@ VAULTOFCODES-PYTHON-INTERNSHIP/
 ├── README.md
 │
 ├── Assignment-1/
+│   ├── README.md
+│   │
 │   ├── Task-1_Code-Review/
-│   │   └── ...
+│   │   ├── solution.py
+│   │   └── Assignment_1_Report.pdf
 │   │
-│   ├── Task-2_Python-Presentation/
-│   │   └── ...
-│   │
-│   └── README.md
+│   └── Task-2_Python-Presentation/
+│       └── Python_Presentation.pptx
 │
 ├── Assignment-2/
+│   ├── README.md
 │   │
 │   └── Task-1_Virtual-Pet-Simulator/
-│       ├── Assignment_2_Report.pdf
-│       ├── Python_Source_Code_Documentation.pdf
 │       ├── solution.py
-│       └── README.md
+│       ├── Assignment_2_Report.pdf
+│       └── Python_Source_Code_Documentation.pdf
 │
 ├── Assignment-3/
+│   ├── README.md
 │   │
 │   └── Task-1_Personal-Expense-Tracker/
-│       ├── Assignment-3_Report.pdf
 │       ├── expense_tracker.py
 │       ├── expenses.json
-│       ├── Personal_Expense_Tracker_Code.pdf
-│       └── README.md
+│       ├── Assignment-3_Report.pdf
+│       └── Personal_Expense_Tracker_Code.pdf
 │
 └── Assignment-4/
+    ├── README.md
     │
     └── Task-1_Personal-ToDo-List/
-        ├── Assignment-4_Presentation.pptx
-        ├── Assignment-4_Report.pdf
-        ├── Personal_ToDo_Code.pdf
+        ├── todo.py
         ├── tasks.json
-        └── todo.py
+        ├── Assignment-4_Report.pdf
+        ├── Assignment-4_Presentation.pptx
+        └── Personal_ToDo_Code.pdf
